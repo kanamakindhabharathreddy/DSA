@@ -1,7 +1,10 @@
-DSA preparation journey 
+Hello all!!!!
 
 
-Listing all the programs that I am using!!
+THis is my DSA preparation journey 
+
+
+Listing all the programs that I have practised on!
 
 
 Resources used : 
